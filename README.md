@@ -1,6 +1,6 @@
  # Topsis Implementation
 
-It is A Python package to implement the Technique for Order of Preference by Similarity to Ideal Solution (Topsis) method.
+It is A Python package [(Click here)](https://pypi.org/project/Topsis-Raj-102217077/) to implement the Technique for Order of Preference by Similarity to Ideal Solution (Topsis) method.
 
 ## Installation
 
